@@ -1,0 +1,11 @@
+{
+  "name": "bosi-utils",
+  "version": "1.0.0",
+  "description": "博思js工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "bosi test"
+  },
+  "author": "bobby",
+  "license": "ISC"
+}
